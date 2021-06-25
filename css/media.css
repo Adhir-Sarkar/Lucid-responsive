@@ -1,0 +1,388 @@
+@media(min-width: 768px) and (max-width:1024px){
+    .client {
+        width: 75%;
+
+    }
+    .client-img {
+        height:60px;
+        width: 60px;
+
+    }
+    .btn_download {
+        font-size: 12px;
+        padding: 14px 18px;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+
+    .like p {
+        margin: 5px;
+    }
+    .like {
+        font-size: 28px;
+        margin-top: 25px;
+    }
+    .header-content .btn_download{
+        margin: 0;
+    }
+ 
+    .contact_form form input[type="submit"]{
+        width: 100%;
+    }
+    .price p {
+
+        font-size: 11px;
+
+    }
+
+    .contact_form {
+
+        width: 80%;
+
+    }
+    .header-content {
+        height: 90vh;
+    }
+    .contact_form {
+        bottom: -140px;
+    }
+    .like_dowanload {
+        margin-top: 6px;
+        text-align: right;
+    }
+    .testimonial {
+        height: 270px;
+    }
+    .btn_feature {
+        padding: 12px 25px;
+        letter-spacing: 1px;
+        margin-left: 0px;
+    }
+
+    .btn_download {
+
+        padding: 14px 26px;
+        margin-left: 0;
+
+    }
+    .like_row {
+        margin-top: 20px;
+    }
+    .header-content h1 {
+
+        font-size: 40px;
+
+    }
+    .like p {
+
+        font-size: 20px;
+    }
+    .btn_feature:hover {
+
+        margin-right: 0;
+        margin-bottom: 5px;
+    }
+    .hg {
+        align-items: center;
+        height: 500px;
+    }
+
+}
+
+@media(min-width: 576px) and (max-width:767px){
+    .navbar-nav{
+        text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+    .phone img {
+        display: none;
+    }
+    .header-content {
+        text-align: center;
+    }
+    .features-content {
+        padding: 30px;
+    }
+
+    .heading {
+        padding-bottom: 10px;
+    }
+    .testimonial p {
+
+        font-size: 16px;
+        line-height: 20px;
+
+    }
+    .client {
+        width: 95%;
+
+    }
+    .client-img {
+        width: 60px;
+        height: 60px;
+
+    }
+    .price {
+
+        margin-bottom: 35px;
+    }
+    .contact_form {
+        padding: 20px;
+        width: 70%;
+        
+    }
+    .contact-us {
+        height: 870px;
+
+    }
+    .header-content h1 {
+        font-size: 50px;
+
+    }
+    .download-section {
+
+        height: 325px;
+        text-align: center;
+    }
+    .contact_form form input[type="submit"]{
+        margin-left: 120px;
+    }
+
+
+}
+
+@media(min-width: 376px) and (max-width:575px){
+    .phone img {
+        display: none;
+    }
+
+
+    .header-content h1 {
+        font-size: 40px;
+    }
+    .client {
+        width: 105%;
+        padding: 12px;
+
+    }
+    .testimonial p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .client-img {
+        width: 50px;
+        height: 50px;
+    }
+    .client-des h6 {
+
+        font-size: 14px;
+    }
+
+    .contact {
+        padding: 10px;
+    }
+    .btn_download{
+        align-items: center;
+    }
+
+    .btn_download:hover {
+       margin-top: 0;
+    }
+    .like_dowanload {
+        text-align: center;
+    }
+    .header-content {
+        text-align: center;
+    }
+    .like_dowanload {
+        margin-top: 12px;
+    }
+    .download-section {
+        height: 300px;
+    }
+    .contact_form {
+
+        padding: 25px;
+        width: 85%;
+        bottom: -316px;
+    }
+    .contact-icon {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+    .price {
+        margin-bottom: 20px;
+    }
+      
+}
+
+@media(min-width: 321px) and (max-width:375px){
+        .btn_feature {
+        margin-left: 0;
+        }
+    .client-img {
+        width: 35px;
+        height: 35px;
+    }
+    .testimonial {
+        width: 50%;
+        height: 233px;
+    }
+    .client-des h6 {
+        font-size: 9px;
+    }
+    .contact_form form input[type="submit"] {
+        width: 100%;
+       margin: auto;
+    }
+    .btn_download:hover {
+        margin-top: 0;
+     }
+     .header-content {
+        height: 55vh;
+    }
+    .btn_download {
+        margin-top: 0px;
+    }
+    .like_dowanload {
+        margin-top: 0px
+    }
+    .like p {
+        margin: 2px;
+        text-align: center;
+    }
+    .contact_form {
+
+        bottom: -317px;
+    }
+    .contact_form {
+        padding: 17px;
+        width: 75%;
+    }
+    .phone img {
+        display: none;
+    }
+    .header-content h1 {
+
+        font-size: 38px;
+        margin-bottom: 40px;
+        
+    }
+    .hg {
+        align-items: center;
+        text-align: center;
+    }
+    .testimonial p {
+
+        font-size: 13px;
+        line-height: 19px;
+        width: 100%;
+    }
+    .client {
+        width: 85%;
+
+    }
+    .contact {
+
+        padding: 4px;
+    }
+
+    .price {
+        margin-bottom: 20px;
+    }
+
+ }
+
+@media(min-width: 0px) and (max-width:320px){
+    .phone img {
+        display: none;
+    }
+    .header-content h1 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    .hg {
+        text-align: center;
+    }
+    .btn_feature {
+        padding: 0;
+        padding: 13px 26px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .btn_download {
+        margin-left: 0;
+    }
+    .testimonial p {
+
+        font-size: 14px;
+        line-height: 18px;
+       
+    }
+    .testimonial {
+        width: 50%;
+        height: 250px;
+    }
+    .client {
+        width: 138%;
+
+    }
+    .client-img {
+        width: 30px;
+        height: 30px;
+    }
+    .client-des h6 {
+        font-weight: 200;
+    }
+    .like p {
+        margin: 0;
+        text-align: center;
+        font-size: 15px;
+    }
+    .like p span {
+        font-weight: 400;
+        font-size: 25px;
+    }
+    .like_dowanload {
+        margin-top: 0px;
+    }
+    .like {
+        font-size: 23px;
+        padding-bottom: 0px;
+    }
+    .like_row {
+        text-align: center;
+    }
+    .btn_download {
+          margin-top: 10px;
+    }
+    .download-section {
+        height: 255px;
+    }
+    .price p {
+
+        font-size: 18px;
+        padding: 12px 12px;
+        margin-bottom: 11px;
+    }
+    .price {
+        margin-bottom: 15px;
+    }
+    .contact_form {
+        padding: 5px;
+        width: 78%;
+        left: 50%;
+        bottom: -116px;
+    }
+    .contact {
+        padding: 5px;
+    }
+    .contact-us {
+        height: 743px;
+
+    }
+
+}
+
